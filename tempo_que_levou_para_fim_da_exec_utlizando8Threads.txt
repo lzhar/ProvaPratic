@@ -1,0 +1,1 @@
+Tempo total de execução = 146145milissegundos utilizando 8 threads

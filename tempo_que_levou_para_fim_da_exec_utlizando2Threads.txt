@@ -1,1 +1,1 @@
-Tempo total de execução = 20088milissegundos utilizando 2 threads
+Tempo total de execução = 20606milissegundos utilizando 2 threads
